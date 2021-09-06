@@ -1,6 +1,6 @@
-<h3>Hi there! <img src="https://raw.githubusercontent.com/ayrat555/ayrat555/master/wave.gif" width="30px"><br>I'm Airat<br></h3>
+<h3>Hi there! <img src="https://raw.githubusercontent.com/ayrat555/ayrat555/master/wave.gif" width="30px"> I'm Ayrat<br></h3>
 
-Your Friendly Neighborhood <strike>Spider-Man</strike> Software Developer
+<h4> Your Friendly Neighborhood <strike>Spider-Man</strike> Software Developer <h4>
 
 <h4> • <a href="https://www.badykov.com/">Blog</a> • <a href="https://braindump.badykov.com/">Braindump</a> • <a href="https://braindump.badykov.com/notes/20210901184335-my_resources_and_social_links/">Contact links</a></h4>
 
