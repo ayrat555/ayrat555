@@ -1,5 +1,4 @@
-
-<h3>Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 👋🤓<br>I'm Airat<br>Your Friendly Neighborhood ~~Spider-Man~~Software Developer</h3>
+<h3>Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><br>I'm Airat<br>Your Friendly Neighborhood <strike>Spider-Man</strike>Software Developer</h3>
 
 <h4> • <a href="https://www.badykov.com/">Blog</a> • <a href="https://braindump.badykov.com/">Braindump</a> • <a href="https://braindump.badykov.com/notes/20210901184335-my_resources_and_social_links/">Contact links</a></h4>
 

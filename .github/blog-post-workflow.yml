@@ -1,0 +1,14 @@
+name: Latest blog post workflow
+on:
+  schedule: # Run workflow automatically
+    # Check if it works with current dependencies (weekly on Wednesday 2:32 UTC)
+    - cron: '32 2 * * 3'
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://www.badykov.com/feed.xml"
