@@ -1,8 +1,8 @@
 name: Latest blog post workflow
 on:
-  schedule: # Run workflow automatically
-    # Check if it works with current dependencies (weekly on Wednesday 2:32 UTC)
-    - cron: '32 2 * * 3'
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
