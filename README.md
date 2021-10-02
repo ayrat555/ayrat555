@@ -10,8 +10,9 @@ Unfortunately, often I don't notice open issues or pull requests in the repos I 
 <h3>My Latest Articles</h3>
 
 <!-- BLOG-POST-LIST:START -->
-- [My Braindump](https://www.badykov.com/common/2021/08/29/braindump/)
-- [Emacs setup for Rust](https://www.badykov.com/emacs/2021/07/31/emacs-setup-for-rust/)
-- [Fang](https://www.badykov.com/rust/2021/06/27/fang/)
-- [Cargo mode for Emacs](https://www.badykov.com/emacs/2021/05/29/emacs-cargo-mode/)
+- [I split my brain](http://www.badykov.com/emacs/2021/09/27/split/)
+- [My Braindump](http://www.badykov.com/common/2021/08/29/braindump/)
+- [Emacs setup for Rust](http://www.badykov.com/emacs/2021/07/31/emacs-setup-for-rust/)
+- [Fang](http://www.badykov.com/rust/2021/06/27/fang/)
+- [Cargo mode for Emacs](http://www.badykov.com/emacs/2021/05/29/emacs-cargo-mode/)
 <!-- BLOG-POST-LIST:END -->
