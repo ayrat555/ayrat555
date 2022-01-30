@@ -10,9 +10,9 @@ Unfortunately, often I don't notice open issues or pull requests in the repos I 
 <h3>My Latest Articles</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [We’re on the Brink of Cryptopunk](https://www.badykov.com/elixir/cryptopunk/)
 - [My open-source year in review](https://www.badykov.com/common/oss-year/)
 - [Generating a site from org-mode files](https://www.badykov.com/emacs/generating-site-from-org-mode-files/)
 - [I split my brain](https://www.badykov.com/emacs/split/)
 - [My Braindump](https://www.badykov.com/common/braindump/)
-- [Emacs setup for Rust](https://www.badykov.com/emacs/emacs-setup-for-rust/)
 <!-- BLOG-POST-LIST:END -->
