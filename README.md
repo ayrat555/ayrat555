@@ -6,6 +6,8 @@
 
 You can check out the list of my open source projects in <a href="https://braindump.badykov.com/notes/20210830181701-my_projects/">my braindump note</a>
 
+If you like my work, consider donating. BTC Address for donations `bc1q94ru65c8pg87ghhjlc7fteuxncpyj8e28cxf42`
+
 Unfortunately, often I don't notice open issues or pull requests in the repos I maintain. Please contact me through telegram (<a href="https://t.me/ayrat555">Ayrat555</a>) if I don't respond in a couple of days.
 <h3>My Latest Articles</h3>
 
