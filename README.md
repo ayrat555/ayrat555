@@ -1,4 +1,4 @@
-<h3>Hi there! <img src="https://raw.githubusercontent.com/ayrat555/ayrat555/master/wave.gif" width="30px"> I'm Ayrat<br></h3>
+<h3>Hello! I'm Ayrat<br></h3>
 
 <h4> Your Friendly Neighborhood <strike>Spider-Man</strike> Software Developer <h4>
 
