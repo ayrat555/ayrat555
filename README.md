@@ -12,9 +12,9 @@ Unfortunately, often I don't notice open issues or pull requests in the repos I 
 <h3>My Latest Articles</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [TON](https://www.badykov.com/elixir/blockchain/ton/)
 - [Fang, async background processing for Rust](https://www.badykov.com/rust/async-processing/)
 - [Let’s hack crypto wallets](https://www.badykov.com/common/hack/)
 - [Life Balance. Now with music!](https://www.badykov.com/gamedev/life-balance-music/)
 - [Bitcoin address types](https://www.badykov.com/bitcoin/bitcoin-addresses/)
-- [We’re on the Brink of Cryptopunk](https://www.badykov.com/elixir/cryptopunk/)
 <!-- BLOG-POST-LIST:END -->
