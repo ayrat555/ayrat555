@@ -11,9 +11,9 @@ Unfortunately, often I don't notice open issues or pull requests in the repos I 
 My Latest Articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [Bugs to Riches - My TON Bug Bounty Story](/ton/bug-bounty/)
 - [Don’t fight your external problems, laugh at them](/elixir/sage/)
 - [Foogold - checking random &lpar;and not so random&rpar; bitcoin mnemonics](/rust/bitcoin/foogold/)
 - [Submitting transactions in TON with Elixir](/elixir/ton/submitting-ton-transaction/)
 - [TON](/elixir/blockchain/ton/)
-- [Fang, async background processing for Rust](/rust/async-processing/)
 <!-- BLOG-POST-LIST:END -->
